@@ -1,4 +1,4 @@
-**Alan Baines**
+# Alan Baines
 
 Working Remotely from Blacksburg, VA 24060
 
@@ -7,19 +7,17 @@ Working Remotely from Blacksburg, VA 24060
 
 ---
 
-**Professional Profile**
+## Professional Profile
 
 **Team Catalyst & Developer Experience (DevEx) Champion**
 
 A senior software engineer who lives and breathes science, engineering, and computers.
 A proven 'force multiplier' with exceptional industry experience,
 my professional mission is to improve the Developer Experience
-by cultivating a transparent and collaborative environment where teams can do their best work.
-
+by cultivating a transparent and collaborative environment where teams can do their best work.\
 I achieve this by elevating team performance through hands-on mentoring and principle-driven code reviews,
 while also treating the developer workflow as a first-class product
-by reducing friction through robust CI/CD automation.
-
+by reducing friction through robust CI/CD automation.\
 As a seasoned polyglot engineer, my expertise spans multiple languages and paradigms across the full stack.
 This adaptability allows me to focus on what truly matters:
 building sustainable, maintainable systems
@@ -28,9 +26,9 @@ I'm an enthusiastic fan of orange and emojis 🧡
 
 ---
 
-**Professional Experience**
+## Professional Experience
 
-**SelectQuote**, Fully Remote
+### SelectQuote, Fully Remote
 
 **Senior Technical Lead & Architect**	April 2024 – May 2025
 
@@ -70,7 +68,7 @@ to refine requirements, manage risks during production outages, and deliver high
 
 ◇ Tech stack and skills: TypeScript/JavaScript, React, Node.js, NPM, Material UI, RESTful APIs, Sequelize, SQL, DataGrip, Docker/Docker Compose, AWS (CLI, EC2, Lambda, SES, CloudWatch, SSO), Bitbucket (Pipelines, Project Admin), Jest Automated Testing, Static Analysis Tools, Observability/Telemetry, DevOps, CI/CD, Network Architecture, Data structures, Fail-Fast, External API Integrations
 
-**Exelaration**, Fully Remote
+### Exelaration, Fully Remote
 
 **Lead Software Development Engineer & Mentor**	September 2021 – September 2023
 
@@ -102,7 +100,7 @@ through hands-on pair-programming and code review.
 
 ◇ Consolidated Tech Stack: TypeScript/JavaScript, React (Hooks, Redux, Testing Framework), Python (Django, PyTest, MyPy), C#/.NET/Entity Framework, Angular, Node.js, SQL/Postgres, Redis, RabbitMQ, RESTful APIs, ORMs, Docker, CI/CD (GitHub Actions), AWS (CLI, SSO, Lightsail), GitHub Admin, WSL/Linux, SSH, RDP, TDD, Observability (Sentry, Datadog), Static Code Analysis Tools, Linters & Formatters, Agile/Scrum, SOLID Principles, Full Stack, Mentorship, Fractional CTO, EPIC/FHIR
 
-**Phoenix Integration**, Blacksburg, Virginia
+### Phoenix Integration, Blacksburg, Virginia
 
 **Software Engineer**	March 2019 – July 2021
 
@@ -135,7 +133,7 @@ using Phoenix Integration tools.
 
 ---
 
-**Early Career & Academic Experience**	2011 – 2014
+## Early Career & Academic Experience	2011 – 2014
 
 ● Served as a Graduate Research/Teaching Assistant at Virginia Tech,
 focusing on Cyber-Physical Systems,
@@ -148,7 +146,7 @@ teaching Fundamentals of Computer Science to gifted high-school students.
 
 ---
 
-**Extra Activities**
+## Extra Activities
 
 ● Attended RBTC’s AI Decoded session on Search to Conversation:
 How Ozmo is Solving Complex Support Questions with NLU (June, 2025)
@@ -166,9 +164,9 @@ titled "Cybersecurity Myths You Should Stop Believing," featured on Exelaration 
 
 ---
 
-**Education**
+## Education
 
-**Virginia Tech**, Blacksburg, VA
+### Virginia Tech, Blacksburg, VA
 
 Masters of Engineering (ME) in Computer Engineering	May 2013
 
@@ -176,7 +174,7 @@ Bachelor of Science (BS) in Computer Engineering	December 2011
 
 ---
 
-**Publications**
+## Publications
 
 A full list of my publications is available on my Google Scholar profile:
 [Alan Baines - Google Scholar](https://scholar.google.com/citations?user=pHy4pasAAAAJ)
