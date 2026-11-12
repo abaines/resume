@@ -5,8 +5,6 @@ Working Remotely from Blacksburg, VA 24060
 [linkedin.com/in/Alan-Baines](https://www.linkedin.com/in/Alan-Baines/) |
 [github.com/abaines](https://github.com/abaines)
 
----
-
 ## Professional Profile
 
 **Team Catalyst & Developer Experience (DevEx) Champion**
@@ -23,8 +21,6 @@ This adaptability allows me to focus on what truly matters:
 building sustainable, maintainable systems
 and advocating for the DevOps and Open Source principles that make them possible.
 I'm an enthusiastic fan of orange and emojis 🧡
-
----
 
 ## Professional Experience
 
@@ -131,8 +127,6 @@ using Phoenix Integration tools.
 
 ◇ Tech stack and skills: C#/.NET, Java, Python, ActiveX/Excel/COM API, AD/LDAP, PowerShell, VMWare, RDP, SVN, TDD, Automated Testing, Functional Programming, Fail-Fast, Plug-in Architecture, Data structures & Algorithms, Matlab
 
----
-
 ## Early Career & Academic Experience · 2011 – 2014
 
 ● Served as a Graduate Research/Teaching Assistant at Virginia Tech,
@@ -143,8 +137,6 @@ to help students debug complex software and hardware problems.
 
 ● Acted as a Teaching Assistant at Johns Hopkins CTY,
 teaching Fundamentals of Computer Science to gifted high-school students.
-
----
 
 ## Extra Activities
 
@@ -162,8 +154,6 @@ at Virginia Tech (February 2024)
 ● Authored a blog post on cybersecurity myths,
 titled "Cybersecurity Myths You Should Stop Believing," featured on Exelaration (Nov 2021)
 
----
-
 ## Education
 
 ### Virginia Tech, Blacksburg, VA
@@ -171,8 +161,6 @@ titled "Cybersecurity Myths You Should Stop Believing," featured on Exelaration 
 Masters of Engineering (ME) in Computer Engineering · May 2013
 
 Bachelor of Science (BS) in Computer Engineering · December 2011
-
----
 
 ## Publications
 
