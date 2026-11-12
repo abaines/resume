@@ -30,7 +30,7 @@ I'm an enthusiastic fan of orange and emojis 🧡
 
 ### SelectQuote, Fully Remote
 
-**Senior Technical Lead & Architect**	April 2024 – May 2025
+**Senior Technical Lead & Architect** · April 2024 – May 2025
 
 ● Led team of five developers in the full software development lifecycle of agent-centric products,
 emphasizing high availability, performance, efficiency, and security
@@ -70,7 +70,7 @@ to refine requirements, manage risks during production outages, and deliver high
 
 ### Exelaration, Fully Remote
 
-**Lead Software Development Engineer & Mentor**	September 2021 – September 2023
+**Lead Software Development Engineer & Mentor** · September 2021 – September 2023
 
 ● Led and mentored multiple teams of up to 9 developers across diverse client projects,
 including in Med-Tech (integrating external APIs like Epic/FHIR) and Renewable Energy,
@@ -102,7 +102,7 @@ through hands-on pair-programming and code review.
 
 ### Phoenix Integration, Blacksburg, Virginia
 
-**Software Engineer**	March 2019 – July 2021
+**Software Engineer** · March 2019 – July 2021
 
 ● Worked on new features including architecture design, implementation and testing in production software.
 
@@ -119,7 +119,7 @@ to help teammates resolve complex issues and learn better techniques.
 
 ◇ Tech stack and skills: C#/.NET, Java (Hibernate, Spring Boot/Spring), Python, JavaScript, Azure, VMWare, Jenkins, GitHub Actions, Git, SVN, TDD, Automated Testing, Network Architecture, Multithreading, Data structures & Algorithms, Markdown
 
-**Application Engineer**	August 2013 – March 2019
+**Application Engineer** · August 2013 – March 2019
 
 ● Architected and delivered custom external integrations (plug-ins via APIs) for customers,
 managing the full project from requirements to delivery.
@@ -133,7 +133,7 @@ using Phoenix Integration tools.
 
 ---
 
-## Early Career & Academic Experience	2011 – 2014
+## Early Career & Academic Experience · 2011 – 2014
 
 ● Served as a Graduate Research/Teaching Assistant at Virginia Tech,
 focusing on Cyber-Physical Systems,
@@ -168,9 +168,9 @@ titled "Cybersecurity Myths You Should Stop Believing," featured on Exelaration 
 
 ### Virginia Tech, Blacksburg, VA
 
-Masters of Engineering (ME) in Computer Engineering	May 2013
+Masters of Engineering (ME) in Computer Engineering · May 2013
 
-Bachelor of Science (BS) in Computer Engineering	December 2011
+Bachelor of Science (BS) in Computer Engineering · December 2011
 
 ---
 
