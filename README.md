@@ -2,7 +2,7 @@
 
 Working Remotely from Blacksburg, VA 24060
 
-[linkedin.com/in/Alan-Baines](https://www.linkedin.com/in/Alan-Baines/) \|
+[linkedin.com/in/Alan-Baines](https://www.linkedin.com/in/Alan-Baines/) |
 [github.com/abaines](https://github.com/abaines)
 
 ---
@@ -100,7 +100,7 @@ advocating for quality-focused features and process improvements that benefited 
 in software engineering & DevOps best practices, industry tools, and consulting
 through hands-on pair-programming and code review.
 
-◇ Consolidated Tech Stack: TypeScript/JavaScript, React (Hooks, Redux, Testing Framework), Python (Django, PyTest, MyPy), C\#/.NET/Entity Framework, Angular, Node.js, SQL/Postgres, Redis, RabbitMQ, RESTful APIs, ORMs, Docker, CI/CD (GitHub Actions), AWS (CLI, SSO, Lightsail), GitHub Admin, WSL/Linux, SSH, RDP, TDD, Observability (Sentry, Datadog), Static Code Analysis Tools, Linters & Formatters, Agile/Scrum, SOLID Principles, Full Stack, Mentorship, Fractional CTO, EPIC/FHIR 
+◇ Consolidated Tech Stack: TypeScript/JavaScript, React (Hooks, Redux, Testing Framework), Python (Django, PyTest, MyPy), C#/.NET/Entity Framework, Angular, Node.js, SQL/Postgres, Redis, RabbitMQ, RESTful APIs, ORMs, Docker, CI/CD (GitHub Actions), AWS (CLI, SSO, Lightsail), GitHub Admin, WSL/Linux, SSH, RDP, TDD, Observability (Sentry, Datadog), Static Code Analysis Tools, Linters & Formatters, Agile/Scrum, SOLID Principles, Full Stack, Mentorship, Fractional CTO, EPIC/FHIR 
 
 **Phoenix Integration**, Blacksburg, Virginia
 
@@ -119,7 +119,7 @@ to help teammates resolve complex issues and learn better techniques.
 
 ● Primary dev for making transition from Python 2 to Python 3 for our external APIs.
 
-◇ Tech stack and skills: C\#/.NET, Java (Hibernate, Spring Boot/Spring), Python, JavaScript, Azure, VMWare, Jenkins, GitHub Actions, Git, SVN, TDD, Automated Testing, Network Architecture, Multithreading, Data structures & Algorithms, Markdown
+◇ Tech stack and skills: C#/.NET, Java (Hibernate, Spring Boot/Spring), Python, JavaScript, Azure, VMWare, Jenkins, GitHub Actions, Git, SVN, TDD, Automated Testing, Network Architecture, Multithreading, Data structures & Algorithms, Markdown
 
 **Application Engineer**	August 2013 – March 2019
 
@@ -131,7 +131,7 @@ Projects (including prototypes) typically lasted for 2-5 months.
 and taught ways to improve their engineering automation and integration
 using Phoenix Integration tools. 
 
-◇ Tech stack and skills: C\#/.NET, Java, Python, ActiveX/Excel/COM API, AD/LDAP, PowerShell, VMWare, RDP, SVN, TDD, Automated Testing, Functional Programming, Fail-Fast, Plug-in Architecture, Data structures & Algorithms, Matlab
+◇ Tech stack and skills: C#/.NET, Java, Python, ActiveX/Excel/COM API, AD/LDAP, PowerShell, VMWare, RDP, SVN, TDD, Automated Testing, Functional Programming, Fail-Fast, Plug-in Architecture, Data structures & Algorithms, Matlab
 
 ---
 
@@ -151,18 +151,18 @@ teaching Fundamentals of Computer Science to gifted high-school students.
 **Extra Activities**
 
 ● Attended RBTC’s AI Decoded session on Search to Conversation:
-How Ozmo is Solving Complex Support Questions with NLU (June, 2025\)
+How Ozmo is Solving Complex Support Questions with NLU (June, 2025)
 
-● Attended ChatGPT Unleashed session at the Roanoke Valley .NET User Group meetup (April, 2024\)
+● Attended ChatGPT Unleashed session at the Roanoke Valley .NET User Group meetup (April, 2024)
 
 ● Attended a session on building a Generative AI (LLM) application in Docker
-at the Roanoke Valley .NET User Group meetup (March, 2024\)
+at the Roanoke Valley .NET User Group meetup (March, 2024)
 
 ● Mentored at HackViolet, a hackathon focused on women's empowerment in technology,
-at Virginia Tech (February 2024\)
+at Virginia Tech (February 2024)
 
 ● Authored a blog post on cybersecurity myths,
-titled "Cybersecurity Myths You Should Stop Believing," featured on Exelaration (Nov 2021\)
+titled "Cybersecurity Myths You Should Stop Believing," featured on Exelaration (Nov 2021)
 
 ---
 
@@ -179,4 +179,4 @@ Bachelor of Science (BS) in Computer Engineering	December 2011
 **Publications**
 
 A full list of my publications is available on my Google Scholar profile:
-[Alan Baines \- Google Scholar](https://scholar.google.com/citations?user=pHy4pasAAAAJ)
+[Alan Baines - Google Scholar](https://scholar.google.com/citations?user=pHy4pasAAAAJ)
