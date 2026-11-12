@@ -100,15 +100,15 @@ advocating for quality-focused features and process improvements that benefited 
 in software engineering & DevOps best practices, industry tools, and consulting
 through hands-on pair-programming and code review.
 
-◇ Consolidated Tech Stack: TypeScript/JavaScript, React (Hooks, Redux, Testing Framework), Python (Django, PyTest, MyPy), C#/.NET/Entity Framework, Angular, Node.js, SQL/Postgres, Redis, RabbitMQ, RESTful APIs, ORMs, Docker, CI/CD (GitHub Actions), AWS (CLI, SSO, Lightsail), GitHub Admin, WSL/Linux, SSH, RDP, TDD, Observability (Sentry, Datadog), Static Code Analysis Tools, Linters & Formatters, Agile/Scrum, SOLID Principles, Full Stack, Mentorship, Fractional CTO, EPIC/FHIR 
+◇ Consolidated Tech Stack: TypeScript/JavaScript, React (Hooks, Redux, Testing Framework), Python (Django, PyTest, MyPy), C#/.NET/Entity Framework, Angular, Node.js, SQL/Postgres, Redis, RabbitMQ, RESTful APIs, ORMs, Docker, CI/CD (GitHub Actions), AWS (CLI, SSO, Lightsail), GitHub Admin, WSL/Linux, SSH, RDP, TDD, Observability (Sentry, Datadog), Static Code Analysis Tools, Linters & Formatters, Agile/Scrum, SOLID Principles, Full Stack, Mentorship, Fractional CTO, EPIC/FHIR
 
 **Phoenix Integration**, Blacksburg, Virginia
 
-**Software Engineer**	March 2019 – July 2021 
+**Software Engineer**	March 2019 – July 2021
 
 ● Worked on new features including architecture design, implementation and testing in production software.
 
-● Maintained legacy server/client code by fixing bugs and making performance and security improvements. 
+● Maintained legacy server/client code by fixing bugs and making performance and security improvements.
 
 ● Researched technologies to make recommendations for team use, including CI and testing harnesses.
 
@@ -129,7 +129,7 @@ Projects (including prototypes) typically lasted for 2-5 months.
 
 ● Went to customer sites to train and coach users on how to successfully incorporate our products
 and taught ways to improve their engineering automation and integration
-using Phoenix Integration tools. 
+using Phoenix Integration tools.
 
 ◇ Tech stack and skills: C#/.NET, Java, Python, ActiveX/Excel/COM API, AD/LDAP, PowerShell, VMWare, RDP, SVN, TDD, Automated Testing, Functional Programming, Fail-Fast, Plug-in Architecture, Data structures & Algorithms, Matlab
 
