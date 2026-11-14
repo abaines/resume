@@ -1,9 +1,6 @@
 name: Build resume PDF and HTML (artifact only, never committed)
 
 on:
-  push:
-    branches: [main]
-  pull_request:
   workflow_dispatch:
 
 permissions:
