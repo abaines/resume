@@ -1,0 +1,37 @@
+name: Build resume PDF and HTML (artifact only, never committed)
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    name: Render README.md with markdown-to-pdf (Docker action, Linux runner)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out without persisting credentials
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Render README.md to PDF and HTML (markdown-to-pdf fork, image pinned by digest)
+        uses: abaines/markdown-to-pdf@1262e3bdf926b00021d75086165ce95cad1268ac # fork-v4.0.0
+        with:
+          input_path: ./README.md
+          output_dir: generated/
+          build_html: true
+
+      - name: Check outputs landed in generated/ (output_dir needs its trailing slash)
+        run: test -f generated/README.pdf && test -f generated/README.html
+
+      - name: Upload PDF and HTML as the resume artifact
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: resume
+          path: generated/
+          if-no-files-found: error
