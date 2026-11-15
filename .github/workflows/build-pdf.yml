@@ -17,7 +17,7 @@ jobs:
           persist-credentials: false
 
       - name: Render README.md to PDF and HTML (markdown-to-pdf fork, image pinned by digest)
-        uses: abaines/markdown-to-pdf@1262e3bdf926b00021d75086165ce95cad1268ac # fork-v4.0.0
+        uses: abaines/markdown-to-pdf@3204cd8c90570ae50adeddb62a9c19dbc6370e48 # fork-v4.1.1
         with:
           input_path: ./README.md
           output_dir: generated/
