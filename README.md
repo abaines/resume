@@ -24,6 +24,40 @@ I'm an enthusiastic fan of orange and emojis 🧡
 
 ## Professional Experience
 
+### WellHive, Fully Remote
+
+#### Senior Software Engineer · December 2025 – October 2026
+
+- Operated as a Team Catalyst and Developer Experience (DevEx) Champion
+  within the Customer Solutions Engineering organization,
+  multiplying team velocity
+  through architectural standards, CI/CD automation, and AI-accelerated workflows.
+- Elevated team code quality and collaborative knowledge-sharing
+  by conducting comprehensive reviews for over 160 pull requests,
+  maintaining a 5-to-1 ratio of PRs reviewed to PRs authored.
+- Engineered custom LLM tooling utilizing Claude
+  to generate, categorize, and track code review findings,
+  systematically drafting and curating over 100 actionable pieces of pull request feedback.
+- Authored the engineering Definition of Ready (DoR) framework
+  to shift architectural decisions left,
+  standardizing the development of 75+ cross-functional tickets
+  and driving adoption across adjacent project teams.
+- Served as a proactive technical unblocker
+  by contributing over 200 architectural grooming insights to tickets outside of direct ownership,
+  resolving system dependencies before development began.
+- Drove continuous integration and infrastructure-as-code improvements
+  by orchestrating independent deployment pipelines
+  and automating cross-repository dependency updates to reduce developer friction.
+- Established single sources of truth
+  by authoring and refining over 30 technical documentation pages,
+  covering deployment models, engineering standards, and release workflows
+  for the wider organization.
+- Championed long-term maintainability and sustainable delivery
+  by keeping individual pull requests to a readable 169-line median,
+  while accelerating team delivery with a highly responsive 1.8-hour median time-to-first-review.
+
+◇ Tech stack and skills: Developer Experience (DevEx), CI/CD, Software Architecture, Prompt Engineering, AI-Assisted Software Development
+
 ### SelectQuote, Fully Remote
 
 #### Senior Technical Lead & Architect · April 2024 – May 2025
