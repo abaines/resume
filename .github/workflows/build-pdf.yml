@@ -34,6 +34,7 @@ jobs:
           input_path: ./README.md
           output_dir: generated/
           build_html: true
+          template: ./render/template.html
 
       - name: Check outputs landed in generated/ (output_dir needs its trailing slash)
         run: test -f generated/README.pdf && test -f generated/README.html
