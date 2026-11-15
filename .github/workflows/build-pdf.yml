@@ -55,3 +55,29 @@ jobs:
           name: ${{ steps.rename.outputs.base }}
           path: artifact/
           if-no-files-found: error
+
+      - name: Lay out the Pages site (HTML as index.html, PDF at a stable unversioned name)
+        run: |
+          mkdir site
+          cp generated/README.html site/index.html
+          cp generated/README.pdf site/Alan-Baines-Resume.pdf
+
+      - name: Upload the site for GitHub Pages
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: site/
+
+  deploy:
+    name: Publish to GitHub Pages
+    needs: render
+    runs-on: ubuntu-26.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the uploaded site
+        id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
