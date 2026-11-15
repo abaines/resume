@@ -1,4 +1,4 @@
-name: Build resume PDF and HTML (artifact only, never committed)
+name: Build Resume PDF
 run-name: Resume ${{ inputs.version }}
 
 on:
