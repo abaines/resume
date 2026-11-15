@@ -1,7 +1,13 @@
 name: Build resume PDF and HTML (artifact only, never committed)
+run-name: Resume ${{ inputs.version }}
 
 on:
   workflow_dispatch:
+    inputs:
+      version:
+        description: Resume version, 3 digits then 1 capital letter (e.g. 107V)
+        required: true
+        type: string
 
 permissions:
   contents: read
@@ -11,6 +17,12 @@ jobs:
     name: Render README.md with markdown-to-pdf (Docker action, Linux runner)
     runs-on: ubuntu-26.04
     steps:
+      - name: Check version is 3 digits then 1 capital letter (e.g. 107V)
+        env:
+          VERSION: ${{ inputs.version }}
+        run: |
+          [[ "$VERSION" =~ ^[0-9]{3}[A-Z]$ ]]
+
       - name: Check out without persisting credentials
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
