@@ -38,6 +38,10 @@ I'm an enthusiastic fan of orange and emojis 🧡
 - Engineered custom LLM tooling utilizing Claude
   to generate, categorize, and track code review findings,
   systematically drafting and curating over 100 actionable pieces of pull request feedback.
+- Codified engineering standards as 30+ reusable code-quality principles for Claude,
+  each recording the why behind it and its known exceptions
+  (such as avoiding lint suppressions and renaming variables when their meaning changes),
+  applying them to my own code and to reviews of teammates' pull requests.
 - Authored the engineering Definition of Ready (DoR) framework
   to shift architectural decisions left,
   standardizing the development of 75+ cross-functional tickets
