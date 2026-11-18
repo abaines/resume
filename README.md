@@ -42,6 +42,10 @@ I'm an enthusiastic fan of orange and emojis 🧡
   to shift architectural decisions left,
   standardizing the development of 75+ cross-functional tickets
   and driving adoption across adjacent project teams.
+- Shifted code quality left with guardrails that serve engineers and LLM coding assistants alike:
+  raised ESLint, the TypeScript compiler, and golangci-lint to strict settings team-wide,
+  discouraged line- and file-level lint suppressions,
+  and defined which rules apply to test code.
 - Served as a proactive technical unblocker
   by contributing over 200 architectural grooming insights to tickets outside of direct ownership,
   resolving system dependencies before development began.
