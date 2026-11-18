@@ -15,7 +15,8 @@ my professional mission is to improve the Developer Experience
 by cultivating a transparent and collaborative environment where teams can do their best work.\
 I achieve this by elevating team performance through hands-on mentoring and principle-driven code reviews,
 while also treating the developer workflow as a first-class product
-by reducing friction through robust CI/CD automation.\
+by reducing friction through robust CI/CD automation
+and shift-left guardrails that help engineers and LLMs alike write better code.\
 As a seasoned polyglot engineer, my expertise spans multiple languages and paradigms across the full stack.
 This adaptability allows me to focus on what truly matters:
 building sustainable, maintainable systems
