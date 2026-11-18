@@ -56,7 +56,7 @@ I'm an enthusiastic fan of orange and emojis 🧡
   by keeping individual pull requests to a readable 169-line median,
   while accelerating team delivery with a highly responsive 1.8-hour median time-to-first-review.
 
-◇ Tech stack and skills: Developer Experience (DevEx), CI/CD, Software Architecture, Prompt Engineering, AI-Assisted Software Development
+◇ Tech stack and skills: Go (Golang), TypeScript, golangci-lint, ESLint, Pulumi (Infrastructure as Code), AWS, Claude, GitHub Copilot, LLM-assisted code review, Developer Experience (DevEx), CI/CD, Software Architecture, Prompt Engineering, AI-Assisted Software Development
 
 ### SelectQuote, Fully Remote
 
