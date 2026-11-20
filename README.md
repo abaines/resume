@@ -34,7 +34,7 @@ I'm an enthusiastic fan of orange and emojis 🧡
   multiplying team velocity
   through architectural standards, CI/CD automation, and AI-accelerated workflows.
 - Elevated team code quality and collaborative knowledge-sharing
-  by conducting comprehensive reviews for over 160 pull requests,
+  by conducting comprehensive, highly responsive reviews for over 160 pull requests,
   maintaining a 5-to-1 ratio of PRs reviewed to PRs authored.
 - Engineered custom LLM tooling utilizing Claude
   to generate, categorize, and track code review findings,
@@ -45,10 +45,11 @@ I'm an enthusiastic fan of orange and emojis 🧡
   applying them to my own code and to reviews of teammates' pull requests.
 - Authored the engineering Definition of Ready (DoR) framework
   to shift architectural decisions left,
-  standardizing the development of 75+ cross-functional tickets
-  and driving adoption across adjacent project teams.
+  standardizing the development of 75+ cross-functional tickets,
+  with both teams continuing to use it after the original team split in two.
 - Shifted code quality left with guardrails that serve engineers and LLM coding assistants alike:
   raised ESLint, the TypeScript compiler, and golangci-lint to strict settings team-wide,
+  enforced cyclomatic complexity limits with static analysis,
   discouraged line- and file-level lint suppressions,
   and defined which rules apply to test code.
 - Served as a proactive technical unblocker
@@ -62,8 +63,7 @@ I'm an enthusiastic fan of orange and emojis 🧡
   covering deployment models, engineering standards, and release workflows
   for the wider organization.
 - Championed long-term maintainability and sustainable delivery
-  by keeping individual pull requests to a readable 169-line median,
-  while accelerating team delivery with a highly responsive 1.8-hour median time-to-first-review.
+  by keeping individual pull requests to a readable 169-line median.
 
 ◇ Tech stack and skills: Go (Golang), TypeScript, golangci-lint, ESLint, Pulumi (Infrastructure as Code), AWS, Claude, GitHub Copilot, LLM-assisted code review, Developer Experience (DevEx), CI/CD, Software Architecture, Prompt Engineering, AI-Assisted Software Development
 
