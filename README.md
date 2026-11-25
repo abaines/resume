@@ -9,7 +9,7 @@ Working Remotely from Blacksburg, VA 24060
 
 **Team Catalyst & Developer Experience (DevEx) Champion**
 
-A senior software engineer who lives and breathes science, engineering, and computers.
+A software engineer since 2013 who lives and breathes science, engineering, and computers.
 I'm a proven 'force multiplier' with exceptional industry experience.
 My professional mission is to improve the Developer Experience
 by cultivating a transparent and collaborative environment where teams can do their best work.\
@@ -30,14 +30,14 @@ I'm an enthusiastic fan of orange and emojis 🧡
 
 #### Senior Software Engineer · December 2025 – October 2026
 
-- Operated as a Team Catalyst and Developer Experience (DevEx) Champion
+- Operated as the DevEx champion
   within the Customer Solutions Engineering organization,
-  multiplying team velocity
+  helping the whole team ship with fewer errors and less rework
   through architectural standards, CI/CD automation, and AI-accelerated workflows.
 - Elevated team code quality and collaborative knowledge sharing
   by conducting comprehensive, highly responsive reviews for over 160 pull requests,
   maintaining a 5-to-1 ratio of PRs reviewed to PRs authored.
-- Engineered custom LLM tooling utilizing Claude
+- Engineered custom LLM tooling using Claude
   to generate, categorize, and track code review findings,
   systematically drafting and curating over 100 actionable pieces of pull request feedback.
 - Codified engineering standards as 30+ reusable code-quality principles for Claude
@@ -49,7 +49,7 @@ I'm an enthusiastic fan of orange and emojis 🧡
   standardizing the development of 75+ cross-functional tickets,
   with both teams continuing to use it after the original team split in two.
 - Shifted code quality left with guardrails that serve engineers and LLM coding assistants alike:
-  raised ESLint, the TypeScript compiler, and golangci-lint to strict settings team-wide,
+  led the team-wide move of ESLint, the TypeScript compiler, and golangci-lint to strict settings,
   enforced cyclomatic complexity limits with static analysis,
   discouraged line- and file-level lint suppressions,
   and defined which rules apply to test code.
@@ -72,7 +72,7 @@ I'm an enthusiastic fan of orange and emojis 🧡
 
 #### Senior Technical Lead & Architect · April 2024 – May 2025
 
-- Led a team of five developers in the full software development lifecycle of agent-centric products,
+- Led a team of five developers in the full software development lifecycle of products for sales agents,
   emphasizing high availability, performance, efficiency, and security
   within a collaborative, cross-functional agile environment.
 - Led design reviews and architected reusable software components,
