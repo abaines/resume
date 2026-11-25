@@ -95,7 +95,8 @@ I'm an enthusiastic fan of orange and emojis 🧡
 - Drove key code quality initiatives,
   leading the team to increase test coverage by 10%
   and overseeing the adoption of new static analysis tools
-  to systematically reduce oversized files (from 3,000+ to under 400 lines).
+  to gradually shrink oversized files (3,000+ lines) toward a 400-line limit
+  with an automated ratchet on the files each pull request touched.
 - Partnered closely with Product Owners and other technical teams (ETL, DevOps, DBAs)
   to refine requirements, manage risks during production outages, and deliver high-performing software.
 
