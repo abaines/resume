@@ -66,7 +66,7 @@ I'm an enthusiastic fan of orange and emojis 🧡
 - Championed long-term maintainability and sustainable delivery
   by keeping individual pull requests to a readable 169-line median.
 
-◇ Tech stack and skills: Go (Golang), TypeScript, golangci-lint, ESLint, Pulumi (Infrastructure as Code), AWS, Claude, GitHub Copilot, LLM-assisted code review, Developer Experience (DevEx), CI/CD, Software Architecture, Prompt Engineering, AI-Assisted Software Development
+◇ Tech stack and skills: Go (Golang), TypeScript, golangci-lint, ESLint, Pulumi (Infrastructure as Code), AWS (S3, ECS, Secrets Manager, Parameter Store), Linux, Jenkins, GitHub Actions, Jira, Claude, GitHub Copilot, LLM-assisted code review, Developer Experience (DevEx), CI/CD, Software Architecture, Prompt Engineering, AI-Assisted Software Development
 
 ### SelectQuote, Fully Remote
 
