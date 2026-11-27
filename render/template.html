@@ -9,6 +9,10 @@
 			h1, h2, h3, h4, h5, h6 { break-after: avoid; }
 			/* Keep each bullet whole on one page. */
 			li { break-inside: avoid; }
+			/* Keep each paragraph whole on one page, such as a job's tech stack line. */
+			p { break-inside: avoid; }
+			/* Without a bottom margin on the last element, a full last page can't spill a blank page. */
+			main > :last-child { margin-bottom: 0; }
 		</style>
 	</head>
 	<body>

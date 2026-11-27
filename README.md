@@ -1,6 +1,7 @@
 # Alan Baines
 
-Working Remotely from Blacksburg, VA 24060
+Working Remotely from Blacksburg, VA 24060 |
+[alanbaines.vt@gmail.com](mailto:alanbaines.vt@gmail.com)
 
 [linkedin.com/in/Alan-Baines](https://www.linkedin.com/in/Alan-Baines/) |
 [github.com/abaines](https://github.com/abaines)
@@ -37,10 +38,10 @@ I'm an enthusiastic fan of orange and emojis 🧡
 - Elevated team code quality and collaborative knowledge sharing
   by conducting comprehensive, highly responsive reviews for over 160 pull requests,
   maintaining a 5-to-1 ratio of PRs reviewed to PRs authored.
-- Engineered custom LLM tooling using Claude
-  to generate, categorize, and track code review findings,
+- Engineered agentic code review tooling in Claude Code
+  to generate, categorize, and track review findings,
   systematically drafting and curating over 100 actionable pieces of pull request feedback.
-- Codified engineering standards as 30+ reusable code-quality principles for Claude
+- Codified engineering standards as 30+ reusable code-quality principles for Claude Code
   (such as avoiding lint suppressions and renaming variables when their meaning changes),
   each recording the why behind it and its known exceptions,
   applying them to my own code and to reviews of teammates' pull requests.
@@ -61,12 +62,13 @@ I'm an enthusiastic fan of orange and emojis 🧡
   and automating cross-repository dependency updates to reduce developer friction.
 - Established single sources of truth
   by authoring and refining over 30 technical documentation pages,
+  many written for engineers and LLM coding agents alike,
   covering deployment models, engineering standards, and release workflows
   for the wider organization.
 - Championed long-term maintainability and sustainable delivery
   by keeping individual pull requests to a readable 169-line median.
 
-◇ Tech stack and skills: Go (Golang), TypeScript, golangci-lint, ESLint, Pulumi (Infrastructure as Code), AWS (S3, ECS, Secrets Manager, Parameter Store), Linux, Jenkins, GitHub Actions, Jira, Claude, GitHub Copilot, LLM-assisted code review, Developer Experience (DevEx), CI/CD, Software Architecture, Prompt Engineering, AI-Assisted Software Development
+◇ Tech stack and skills: Go (Golang), TypeScript, golangci-lint, ESLint, Pulumi (Infrastructure as Code), AWS (S3, ECS, Secrets Manager, Parameter Store), Linux, Jenkins, GitHub Actions, Jira, Claude Code, GitHub Copilot, LLM-assisted code review, Developer Experience (DevEx), CI/CD, Software Architecture, Prompt Engineering, AI-Assisted Software Development
 
 ### SelectQuote, Fully Remote
 
@@ -125,6 +127,8 @@ I'm an enthusiastic fan of orange and emojis 🧡
 - Onboarded and trained university undergraduates
   in software engineering & DevOps best practices, industry tools, and consulting
   through hands-on pair-programming and code review.
+- Interviewed candidates from interns to senior engineers,
+  including about 100 interns and juniors.
 
 ◇ Consolidated Tech Stack: TypeScript/JavaScript, React (Hooks, Redux, Testing Library), Python (Django, PyTest, MyPy), C#/.NET/Entity Framework, Angular, Node.js, SQL/Postgres, Redis, RabbitMQ, RESTful APIs, ORMs, Docker, CI/CD (GitHub Actions), AWS (CLI, SSO, Lightsail), GitHub Admin, WSL/Linux, SSH, RDP, TDD, Observability (Sentry, Datadog), Static Code Analysis Tools, Linters & Formatters, Agile/Scrum, SOLID Principles, Full Stack, Mentorship, Fractional CTO, Epic/FHIR
 
@@ -138,7 +142,7 @@ I'm an enthusiastic fan of orange and emojis 🧡
 - Applied analytical problem-solving while pair-programming
   to help teammates resolve complex issues and learn better techniques.
 - Recognized, advocated for, and taught technical best practices and clean code.
-- Primary developer for the transition from Python 2 to Python 3 for our external APIs.
+- Primary developer for the transition from Python 2 to Python 3 for our external API.
 
 ◇ Tech stack and skills: C#/.NET, Java (Hibernate, Spring Boot/Spring), Python, JavaScript, Azure, VMware, Jenkins, GitHub Actions, Git, SVN, TDD, Automated Testing, Network Architecture, Multithreading, Data structures & Algorithms, Markdown
 
